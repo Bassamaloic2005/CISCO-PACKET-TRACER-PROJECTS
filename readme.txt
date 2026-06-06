@@ -1,0 +1,3 @@
+Ceci sont des fichiers contenant des projets réalisés sous le logiciel CISCO PACKET TRACER. 
+Ces projets englobent notamment la configuration des routeurs , des SWITCH, des VLANS, des Serveurs (DNS,DHCP,WEB) et enfin la réalisation d'un LAN d'entreprise complet.
+Ces exercices étaient pour moi une opportunité de découvrir le logiciel CISCO PACKET TRACER ainsi que de mettre en pratique mes connaissances théoriques en réseau informatique dans un environnement de simulation.
